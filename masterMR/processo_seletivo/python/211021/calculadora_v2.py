@@ -6,6 +6,7 @@ from operator import *
 print('\nBem vindo a Calculadora sem expressões if-else & pattern matching!\nUtilize os simbolos aritméticos para '
       'escolher o tipo de operação mais a frente.\n')
 print('+ = adição\n- = subtração\n* = multiplicação\n/ = divisão\n')
+
 num1 = input('Insira o primeiro número: ')
 while not num1.isnumeric():
     num1 = input('Insira um NÚMERO real para o primeiro valor: ')
