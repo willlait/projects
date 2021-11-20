@@ -1,11 +1,11 @@
+##Faculdade Paulista de Informática:
+**Turmas: 2TDSA/F/J**
+
 # Projeto Global Impact: Seleção de tomates resistentes
 
 **Integrantes:** 
 
-**Carlos Eduardo Hayashi 				- 2TDSF RM#85225**
-
-##Faculdade Paulista de Informática:
-**Turmas: 2TDSA/F/J**
+**Carlos Eduardo Hayashi 				                - 2TDSF RM#85225**
 
 **Danilo de Melo Arraes Pessoa				          - 2TDSJ RM#82983**
 
